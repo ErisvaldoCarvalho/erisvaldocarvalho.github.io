@@ -2,6 +2,7 @@
 layout: post
 title:  "Figure With A Caption"
 date:   2014-12-12
+dateBR:   12 de dezembro de 2014
 ---
 
 
